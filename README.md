@@ -1,3 +1,3 @@
 # Otr3bor
-[![Skills](https://skills.syvixor.com/api/icons?i=nvim,html,css,python,arch-linux,hyprland)](https://github.com/syvixor/skills-icons)
+https://skills.syvixor.com/api/icons?perline=15&i=archlinux,linux,python,html,css3,javascript,git,mysql,neovim,notepadplusplus,visualstudiocode
 
