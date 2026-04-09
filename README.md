@@ -1,3 +1,3 @@
 # Otr3bor
-https://skills.syvixor.com/api/icons?perline=15&i=archlinux,linux,python,html,css3,javascript,git,mysql,neovim,notepadplusplus,visualstudiocode
+(https://skills.syvixor.com/api/icons?perline=15&i=archlinux,linux,python,html,css3,javascript,git,mysql,neovim,notepadplusplus,visualstudiocode)
 
